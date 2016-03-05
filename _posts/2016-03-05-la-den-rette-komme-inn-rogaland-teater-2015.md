@@ -1,13 +1,13 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T10:06:15.700Z'
+datePublished: '2016-03-05T11:08:59.672Z'
 publisher:
   name: ''
   domain: ''
 title: '"La den rette komme inn" - Rogaland Teater 2015'
-dateModified: '2016-03-05T09:59:02.217Z'
-starred: true
+dateModified: '2016-03-05T10:25:47.405Z'
+starred: false
 sourcePath: _posts/2016-03-05-la-den-rette-komme-inn-rogaland-teater-2015.md
 published: true
 inFeed: true
