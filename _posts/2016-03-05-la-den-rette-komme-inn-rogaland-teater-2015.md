@@ -1,13 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T11:08:59.672Z'
+datePublished: '2016-03-05T11:32:05.421Z'
 publisher:
-  name: ''
   domain: ''
+  name: ''
 title: '"La den rette komme inn" - Rogaland Teater 2015'
-dateModified: '2016-03-05T10:25:47.405Z'
-starred: false
+dateModified: '2016-03-05T11:22:00.706Z'
 sourcePath: _posts/2016-03-05-la-den-rette-komme-inn-rogaland-teater-2015.md
 published: true
 inFeed: true
@@ -19,15 +18,9 @@ _type: Article
 
 ---
 # "La den rette komme inn" - Rogaland Teater 2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b0591c8-7dbb-4cfc-bef1-1b9a565b4f9f.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f0c4b1b-d527-472b-a65f-8cdab44661af.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dae70403-1877-4217-bca9-d7164d7ba502.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0df7bd-5ffb-4a15-b33c-3184f1daf658.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f949fd-6698-442f-b855-b2ca92efc962.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d069ad58-1219-41c7-b700-1901caf56443.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bf2eee1-7196-4d47-832c-d9cf41d1bece.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cd8f821-52e7-466e-8163-c6d3722011f7.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1201251c-dad6-45ac-9a38-dfdd6349b35c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea156ea3-7bb6-4e38-8be8-12719a9abf8a.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34d39783-ad51-44bd-8ffc-cf3fd9761be4.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4088a238-33cd-43a0-b25e-bf66139a2827.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cc579f3-bbfd-45bd-b582-046843c7fbc5.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bad139af-672a-4835-9a59-996be06c0b43.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/55106dd5-9c7f-4ca0-bc5b-ef48bff3501f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5177dc1c-4e5b-4865-affb-825e411f0786.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fcd0f50-0906-4e6a-a6c2-5cc33938872f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7841367e-bd57-41d5-9472-92bbb205832a.png)
