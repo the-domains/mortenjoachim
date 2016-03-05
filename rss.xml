@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mortenjoachim]]></title>
         <description><![CDATA[mortenjoachim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mortenjoachim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 11:12:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 11:15:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mortenjoachim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["Skaff meg en synder" - Teater Innlandet 2012]]></title>
             <description><![CDATA[<article><h1>"Skaff meg en synder" - Teater Innlandet 2012</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be0f6963070a55c38eed9f6ed06fbc5530ffdde1.png"></article>]]></description>
-            <link>undefinedskaff-meg-en-synder-teater-innlandet-2012/index.html</link>
+            <link>https://thegrid.ai/mortenjoachim/skaff-meg-en-synder-teater-innlandet-2012/index.html</link>
             <guid isPermaLink="false">edacc7af-52a1-4173-bda9-ca0072bd4154</guid>
-            <pubDate>Sat, 05 Mar 2016 11:08:59 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 11:15:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
