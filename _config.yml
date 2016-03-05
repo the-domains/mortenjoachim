@@ -1,0 +1,14 @@
+layout_spectrum: 0.9480287
+typography_spectrum: 0.6863799
+color:
+  saturation: 0.9756788
+  lightness: 0.2329749
+  brandStrength: 0.4166867
+  brandColors:
+    - '#1F1E20'
+    - '#5C5C5B'
+    - '#FBFBFB'
+    - '#ACB5BD'
+    - '#062967'
+  rhythmicContrast: 0.02479051
+name: mortenjoachim
