@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-03-05T11:08:59.364Z'
+datePublished: '2016-03-05T11:15:27.591Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: '"Skaff meg en synder" - Teater Innlandet 2012'
-dateModified: '2016-03-05T10:27:06.847Z'
+dateModified: '2016-03-05T11:10:47.779Z'
 sourcePath: _posts/2016-03-05-skaff-meg-en-synder-teater-innlandet-2012.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
