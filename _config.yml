@@ -1,26 +1,26 @@
-color:
-  saturation: 0.9756788
-  brandStrength: 0.9480287
-  rhythmicContrast: 0.02479051
-  brandColors:
-    - '#0C0B0E'
-    - '#778091'
-    - '#FEFFFF'
-    - '#65294A'
-    - '#FFFBAB'
-  lightness: 0.2329749
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.9480287
 typography_spectrum: 0.6863799
+color:
+  saturation: 0.9756788
+  brandStrength: 0.3225806
+  lightness: 0.2329749
+  brandColors:
+    - '#0C0B0E'
+    - '#778091'
+    - '#FEFFFF'
+    - '#65294A'
+    - '#FFFBAB'
+  rhythmicContrast: 0.02479051
+layout_spectrum: 0.9480287
 name: mortenjoachim
