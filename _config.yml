@@ -1,3 +1,7 @@
+name: mortenjoachim
+favicon: null
+layout_spectrum: 0.8405018
+typography_spectrum: 0.6379929
 collections:
   - index:
       path: /
@@ -10,17 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Director and playwright
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9756788
-  brandStrength: 0.3225806
-  rhythmicContrast: 0.02479051
   brandColors:
     - '#0C0B0E'
     - '#778091'
     - '#FEFFFF'
     - '#65294A'
     - '#FFFBAB'
+  brandStrength: 0.3225806
   lightness: 0.2329749
-typography_spectrum: 0.6379929
-layout_spectrum: 0.8405018
-name: mortenjoachim
+  saturation: 0.9756788
+  rhythmicContrast: 0.02479051
+purpose: []
