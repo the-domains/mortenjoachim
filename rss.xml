@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mortenjoachim]]></title>
-        <description><![CDATA[mortenjoachim]]></description>
+        <title><![CDATA[Director and playwright]]></title>
+        <description><![CDATA[Director and playwright]]></description>
         <link>https://thegrid.ai/mortenjoachim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 17:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 00:02:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mortenjoachim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA["Skaff meg en synder" - Teater Innlandet 2012]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mortenjoachim/skaff-meg-en-synder-teater-innlandet-2012/index.html</link>
             <guid isPermaLink="false">edacc7af-52a1-4173-bda9-ca0072bd4154</guid>
             <pubDate>Sat, 05 Mar 2016 11:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plakat "La den rette komme inn" ]]></title>
+            <description><![CDATA[<article><h1>Plakat "La den rette komme inn" </h1><p>Dropbox is a free service that lets you bring your photos, docs, and videos anywhere and share them easily. Never email yourself a file again!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/94838c653d00c83bb32867a6d811d36074b9baa9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mortenjoachim/plakat-la-den-rette-komme-inn/index.html</link>
+            <guid isPermaLink="false">1879c5ee-ceb9-4999-9105-a992a760091a</guid>
+            <pubDate>Thu, 17 Mar 2016 00:02:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Puppan te pappa" - Trøndelag teater 2014]]></title>
