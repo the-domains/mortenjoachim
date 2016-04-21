@@ -1,18 +1,24 @@
 ---
 description: ''
+isBasedOnUrl: 'urn:uuid:bf456c50-0021-48ce-b65b-fece8cf4b3bc'
 author: []
-datePublished: '2016-03-05T11:32:05.421Z'
+datePublished: '2016-04-21T23:13:32.675Z'
 publisher:
-  domain: ''
+  favicon: null
   name: ''
+  domain: ''
+  url: null
 title: '"La den rette komme inn" - Rogaland Teater 2015'
-dateModified: '2016-03-05T11:22:00.706Z'
+dateModified: '2016-04-21T23:13:18.965Z'
 sourcePath: _posts/2016-03-05-la-den-rette-komme-inn-rogaland-teater-2015.md
 published: true
+starred: false
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: la-den-rette-komme-inn-rogaland-teater-2015/index.html
+inLanguage: null
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
