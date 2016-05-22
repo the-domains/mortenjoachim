@@ -1,41 +1,41 @@
-name: 'Morten Joachim '
-favicon: null
-layout_spectrum: 0.25893
-typography_spectrum: 0.6379929
+title: Director and playwright
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: Director and playwright
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.9756788
+  brandStrength: 0.3225806
+  rhythmicContrast: 0.5
   brandColors:
     - '#0C0B0E'
     - '#778091'
     - '#FEFFFF'
     - '#65294A'
     - '#FFFBAB'
-  brandStrength: 0.3225806
   lightness: 0.2329749
-  saturation: 0.9756788
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Morten Joachim '
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6379929
+layout_spectrum: 0.7849463
